@@ -47,6 +47,7 @@ nav {
   border: #35858b 0.1rem solid;
   padding: 0.6rem 1.5rem;
   border-radius: 3rem;
+  cursor: pointer;
 }
 
 .image-header > img {
